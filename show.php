@@ -13,10 +13,6 @@
 <![endif]-->
 </head>
 <body>
-<div id="top_menu">
-<p id="top_menu"><a href="/sheji/" target="_blank">广告设计公司</a> <a href="/english/" target="_blank">English</a> <a href="http://wap.sh1c.cn" target="_blank">手机版</a> <a href="/recruitment.asp" target="_blank">人才招聘</a> <a href="/english/" target="_blank">联系我们</a> <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sh1c.cn');" href="#">设为首页</a> <a href="javascript:window.external.AddFavorite('http://www.sh1c.cn',%20'%E4%B8%8A%E6%B5%B7%E9%80%B8%E6%99%A8%E5%B9%BF%E5%91%8A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')">加入收藏</a> <a id="StranLink">繁體中文<script language="JavaScript" src="./_javascript/language.js"></script></a>
-</p>
-	</div>
 <?php
 	require "header.php"
 ?>
