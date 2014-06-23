@@ -56,7 +56,7 @@
 <a href="/channel.asp?id=9" target="_self">资质证书</a>
 </li>
 <li class="main_nav">
-<a href="/channel.asp?id=6" target="_self">成功案例</a>
+<a href="classic.php" target="_self">成功案例</a>
 </li>
 <li class="main_nav">
 <a href="/recruitment.asp" target="_self">人才招聘</a>

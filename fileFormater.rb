@@ -1,6 +1,6 @@
 #remove empty lines in the files
 
-file = "show.php"
+file = "classic.php"
 open("tmp.txt", "w") do |out|
 	open(file, :encoding => 'utf-8') do |line|
 		out << line.read.squeeze("\n")

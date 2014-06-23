@@ -52,7 +52,7 @@ def foo ( tag, attr )
 	puts count.to_s + " files downloaded"
 end
 
-foo "img", "src"
+foo "link", "href"
 
 f = File.open("show.html", "w")
 f.write($doc);
